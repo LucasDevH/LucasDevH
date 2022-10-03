@@ -17,7 +17,9 @@
 </div>
 
 <div style="display: inline_block" align="center"><br>
-  <img align="center" alt="Rafa-HTML" height="40" width="60" src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white">
+  <img align="center" alt="Rafa-HTML" height="40" width="70" src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white">
+  <img align="center" alt="Rafa-HTML" height="40" width="70" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+  <img align="center" alt="Rafa-HTML" height="40" width="70" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
 </div>
   
   ##
