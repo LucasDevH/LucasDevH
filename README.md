@@ -22,7 +22,7 @@
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <br>
 </div>
- 
+  <br> 
 <div align="center"> 
   <h2>🌟 Connect with Me</h2>
  <a href="https://discord.hoppehosting.com/" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
